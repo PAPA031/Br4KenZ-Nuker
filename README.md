@@ -33,7 +33,7 @@ For python version:
 - [x] Spam Channels
 - [x] Pick a random channel/role name and message from config.json file
 ## Contact
-- Discord: .darks.4sure.
-- Server: https://discord.gg/E2ne6C6WNf
+- Discord: broken.ly
+- Server: https://discord.gg/Hateop
 ## Contributor
-- Made By .darks.4sure. & efendi266
+- Made By Br4KenZ
